@@ -1,0 +1,5 @@
+
+
+create database student_database_1;
+use student_database_1;
+select * from student_database_1;
