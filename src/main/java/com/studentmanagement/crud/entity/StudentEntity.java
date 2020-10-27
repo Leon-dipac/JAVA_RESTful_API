@@ -19,6 +19,7 @@ import javax.persistence.*;
 
 @Entity
 @Table(name = "student_database_1")
+// Let's save this project to Github
 public class StudentEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

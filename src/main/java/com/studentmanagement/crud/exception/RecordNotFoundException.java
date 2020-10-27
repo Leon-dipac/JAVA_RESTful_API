@@ -13,6 +13,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
 @ResponseStatus(value = HttpStatus.NOT_FOUND)
+// Let's save this project to Github
 public class RecordNotFoundException extends RuntimeException {
     private String exceptionDetail;
     private Object fieldValue;

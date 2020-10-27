@@ -11,6 +11,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+
+// Let's save this project to Github
 public class StudentUserManagement1Application {
 
 	public static void main(String[] args) {
